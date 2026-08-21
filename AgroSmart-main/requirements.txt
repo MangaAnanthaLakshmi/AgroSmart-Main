@@ -1,0 +1,13 @@
+flask
+flask-cors
+scikit-fuzzy
+numpy<2.0.0
+pandas<2.0.0
+groq>=0.13.0
+pillow
+tensorflow-cpu
+gunicorn
+scipy
+networkx
+scikit-learn
+xgboost
