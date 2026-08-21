@@ -5,7 +5,7 @@ numpy
 pandas
 groq>=0.13.0
 pillow
-tensorflow-cpu
+tensorflow
 gunicorn
 scipy
 networkx
