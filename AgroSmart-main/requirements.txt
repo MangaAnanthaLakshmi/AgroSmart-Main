@@ -1,8 +1,8 @@
 flask
 flask-cors
 scikit-fuzzy
-numpy<2.0.0
-pandas<2.0.0
+numpy
+pandas
 groq>=0.13.0
 pillow
 tensorflow-cpu
